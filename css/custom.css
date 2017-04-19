@@ -1,0 +1,11 @@
+body{
+    background: #d2d2d2;
+}
+.container{
+    background: #f8f8f8;
+
+}
+ footer>.container{
+     background: #2c3e50;
+    color: #f8f8f8;
+}
